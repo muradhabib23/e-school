@@ -1,0 +1,68 @@
+body{
+position: absolute;
+width: 1440px;
+height: 576px;
+left: 0px;
+top: 0px;
+background: #F0FFF0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.logo{
+position: absolute;
+width: 198.07px;
+height: 59px;
+left: 100px;
+top: 10px;
+    }
+
+#nav-link{
+    color: black;
+    font-size: 16px;
+    padding-right: 25px;
+}
+#nav-link-signin{
+    color: white;
+    width: 104px;
+    height: 43px;
+    font-size: 16px;
+    background: #21B573;
+    border-radius: 33px;
+    padding-left: 27px;
+    padding-top: 9px;
+}
+.illustration{
+    padding-left: 100px;
+    padding-right: 30px;
+}
+.illustration img{
+    width: 100%;
+}
+.illustration-writeup h3{
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+.illustration-writeup h1{
+    font-weight: bold;
+    font-size: 48px;
+}
+span{
+    color: #21B573;
+}
+.illustration-writeup-paragraph{
+    font-size: 16px;
+    color: #6C6B6B;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.get-started-button{
+    background: #21B573;
+    border: none;
+    border-radius: 33px;
+    color: white;
+    position: absolute;
+    width: 153px;
+    height: 43px;
+}
