@@ -123,11 +123,26 @@ footer{
     background: #21B573;
     border-radius: 33px;
 }
-.heading-bottom{
-    font-weight: bold;
+#link-signup{
+    color: white;
+    width: 125px;
+    height: 43px;
+    font-size: 16px;
+    background: #21B573;
+    border-radius: 33px;
+    padding-left: 8px;
+    border: none;
+    margin-left: 45%;
+
+}
+.paragraph-bottom{
     color: white;
 }
-.p-bottom{
+.heading-bottom a{
+    font-weight: bold;
+    color: white; 
+}
+.p-bottom a{
     color: white;
 }
 #bg-color-bottom{
